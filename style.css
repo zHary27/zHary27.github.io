@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: black;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    padding: 20px;
+}
+
+#main {
+    width: 50%;
+}
